@@ -1,2 +1,4 @@
 # colecciones
-Gestión de colecciones en PHP
+Gestión de colecciones personales en PHP
+
+Personal colections maintain in PHP
